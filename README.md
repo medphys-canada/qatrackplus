@@ -1,6 +1,6 @@
 # Important Notice
 
-This is an upgrade of the QATrack+ application running on Python 3.12.7 and Django 4.2.18 with MS SQL server (driver mssql). Initially tested with a blank database, but also with a restored database running on the the standard installation settings.
+This is an upgrade of the QATrack+ application running on Python 3.12.7 and Django 4.2.18 with MS SQL server (driver mssql). Initially tested with a blank database, but also with a restored database running on the the standard installation settings. This has only been tested for basic functionality, more in-depth testing is needed.
 
 Instead of running pip install -r requirements\win.txt in the instructions run pip install -r requirements\reqs.txt.
 
