@@ -7,6 +7,8 @@ Instead of running pip install -r requirements\win.txt in the instructions run p
 The package django-admin-views needs updating but there is an error in the package https://github.com/koleror/django-admin-views/pull/43/commits/dffbc56f4f6b271c59c7e8bdc2036e8cbd5c4589.
 Download the package here https://github.com/koleror/django-admin-views/tree/master and update the toml file as above.
 
+Run python manage.py check, you may need to run python manage.py makemigrations and python manage.py migrate.
+
 QATrack+ no longer has a maintainer. Please see the announcement on
 the [QATrack+ Mailing List](https://groups.google.com/g/qatrack/c/79EoHF4U54Y)
 
