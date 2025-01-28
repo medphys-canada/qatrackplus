@@ -1,11 +1,5 @@
 # Important Notice
 
-QATrack+ no longer has a maintainer. Please see the announcement on
-the [QATrack+ Mailing List](https://groups.google.com/g/qatrack/c/79EoHF4U54Y)
-
-If you are interested in taking over the project, please contact Randy Taylor
-(randy@randlet.com).
-
 This is an upgrade of the QATrack+ application running on Python 3.12.7 and Django 4.2.18. Initially tested with a blank database, but also with a restored database running on the the standard installation settings.
 
 Instead of running pip install -r requirements\win.txt in the instructions run pip install -r requirements\reqs.txt.
@@ -13,7 +7,11 @@ Instead of running pip install -r requirements\win.txt in the instructions run p
 The package django-admin-views needs updating but there is an error in the package https://github.com/koleror/django-admin-views/pull/43/commits/dffbc56f4f6b271c59c7e8bdc2036e8cbd5c4589.
 Download the package here https://github.com/koleror/django-admin-views/tree/master and update the toml file as above.
 
+QATrack+ no longer has a maintainer. Please see the announcement on
+the [QATrack+ Mailing List](https://groups.google.com/g/qatrack/c/79EoHF4U54Y)
 
+If you are interested in taking over the project, please contact Randy Taylor
+(randy@randlet.com).
 
 # QATrack+
 ###### Copyright 2012 The Ottawa Hospital Cancer Center
