@@ -1,3 +1,7 @@
+# Branch Purpose:
+
+Tracking update from various contributors for qatrack transition to latest lts Django Release. Work to date provided by @bobred
+
 # Important Notice
 
 This is an upgrade of the QATrack+ application running on Python 3.12.7 and Django 4.2.18 with MS SQL server (driver mssql), this is not a release version, only for testing. Initially tested with a blank database, but also with a restored database running on the the standard installation settings. This has only been tested for basic functionality, more in-depth testing is needed.
